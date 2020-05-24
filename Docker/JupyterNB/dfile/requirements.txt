@@ -1,0 +1,8 @@
+awscli
+mariasql
+PyMySQL
+boto3
+pytz
+redis
+qrcode
+Pillow
